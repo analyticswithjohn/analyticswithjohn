@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm John Pham
 
-Welcome to my GitHub! I'm on a journey to transition from a strong background in finance and accounting to the world of data science — with a focus on financial analytics, forecasting, and automation.
+Welcome to my GitHub! As a finance professional, I'm passionate about leveraging technology to enhance financial analysis. This GitHub is where I explore data science, ML, and AI to build practical tools for forecasting and automation.You'll find my revenue automation report here, a project that showcases my skills in turning complex financial data into a streamlined, reliable process. I'm excited by the future of AI agents and their role in finance.
 
 I’m passionate about:
 - 📊 Building dashboards and financial models
